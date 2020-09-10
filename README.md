@@ -1,3 +1,3 @@
-#Regression: predicting home prices
+# Regression: predicting home prices
 
 Class demo.

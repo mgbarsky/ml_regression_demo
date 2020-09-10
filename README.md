@@ -1,1 +1,3 @@
-# ml_regression_demo
+#Regression: predicting home prices
+
+Class demo.
